@@ -5,7 +5,7 @@ import java.util.logging.*;
 import static org.example.Race.Race.LOGGER;
 import static org.example.Race.Race.PHASER;
 
-
+// добавил LOGGER
 public class Race {
     protected static final Logger LOGGER = Logger.getLogger(Race.class.getName());
 
